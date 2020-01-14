@@ -4,7 +4,7 @@ include 'common.php';
 
 $menu->title = _t('重置密码');
 
-include __ADMIN_DIR__ . '/header.php';
+include 'header.php';
 ?>
 <style>
     body {
